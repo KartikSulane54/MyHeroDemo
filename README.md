@@ -1,2 +1,2 @@
 # MyHeroDemo
-Demo App for Testing Angular + TypeScript
+Demo App for Trying Out Angular 7.0 + TypeScript
